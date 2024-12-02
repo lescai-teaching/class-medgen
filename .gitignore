@@ -35,3 +35,10 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+## other terraform files
+launch_terraform/.terraform*
+launch_terraform/.terraform/*
+launch_terraform/terraform.tfstate
+launch_terraform/terraform.tfstate.backup
+launch_terraform/*.plan
