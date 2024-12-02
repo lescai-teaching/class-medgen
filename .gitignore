@@ -42,3 +42,5 @@ launch_terraform/.terraform/*
 launch_terraform/terraform.tfstate
 launch_terraform/terraform.tfstate.backup
 launch_terraform/*.plan
+
+*key*
